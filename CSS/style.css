@@ -35,9 +35,10 @@ p{
     margin-right: 15%;
     line-height: 1.3rem;
 }
-h2{
+.background1 h2{
     font-family: 'Lexend Deca', sans-serif;
-    color: hsl(0, 0%, 95%);
+    color: hsl(31, 77%, 52%);
+    background-color:hsl(0, 0%, 95%) ;
     border: 0.25rem solid hsla(0, 0%, 100%, 0.75);
     font-size:0.9375rem ;
     margin-left: 10%;
@@ -48,6 +49,48 @@ h2{
     padding-bottom: 0.5rem;
     padding-left: 1rem;
     border-radius: 1.5rem;
+}
+.background1 h2:hover{
+    color:hsl(0, 0%, 95%);
+    background-color:  hsl(31, 77%, 52%);
+}
+.background2 h2{
+    font-family: 'Lexend Deca', sans-serif;
+    color: hsl(184, 100%, 22%);
+    background-color:hsl(0, 0%, 95%) ;
+    border: 0.25rem solid hsla(0, 0%, 100%, 0.75);
+    font-size:0.9375rem ;
+    margin-left: 10%;
+    margin-top: 5rem;
+    margin-right: 45%;
+    margin-bottom: 3rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-left: 1rem;
+    border-radius: 1.5rem;
+}
+.background2 h2:hover{
+    color:hsl(0, 0%, 95%);
+    background-color:  hsl(184, 100%, 22%);
+}
+.background3 h2{
+    font-family: 'Lexend Deca', sans-serif;
+    color: hsl(179, 100%, 13%);
+    background-color:hsl(0, 0%, 95%) ;
+    border: 0.25rem solid hsla(0, 0%, 100%, 0.75);
+    font-size:0.9375rem ;
+    margin-left: 10%;
+    margin-top: 5rem;
+    margin-right: 45%;
+    margin-bottom: 3rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-left: 1rem;
+    border-radius: 1.5rem;
+}
+.background3 h2:hover{
+    color:hsl(0, 0%, 95%);
+    background-color:  hsl(179, 100%, 13%);
 }
 .background2{
     max-width: 18%;
