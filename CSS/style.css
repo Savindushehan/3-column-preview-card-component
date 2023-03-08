@@ -4,14 +4,9 @@
 body{
     margin:0;
     padding:0;
-    border: 2px solid yellow;
     background-size: cover;
 }
-main{
-    background-size: cover;
-    margin-top: auto;
-    margin-bottom: auto;
-}
+
 .background1{
     max-width: 18%;
     background-color:  hsl(31, 77%, 52%);
@@ -108,7 +103,6 @@ p{
         height: 100vh;
         display: flex;
         justify-content: center;
-        border: 2px solid red;
         align-items: center;
         background-size: cover;
         margin-top: auto;
